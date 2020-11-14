@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently studying at +2 (12th)<br>
 
-- 🤔 Don't ask me any douts i am not a Good Programmer<br>
+- 🤔 Ask Me Your Douts . If I Know It Then I Will Tell You The Solution <br>
 
 - 💬 Ask me about basics of python and Bash and Git<br>
 
